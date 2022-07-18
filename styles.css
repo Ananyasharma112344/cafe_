@@ -1,0 +1,94 @@
+.h1{
+  text-align: center;
+  font-family: impact;
+  font-size:40px;
+}
+.h2{
+  text-align:center;
+  font-family: impact
+
+}
+.p{
+  text-align:center;
+}
+.established{
+  text-align:center;
+  font-style:italic;
+}
+hr{
+  height:3px;
+  background-color:brown;
+  border-color:brown;
+}
+.menu{
+  background-color:burlywood;
+
+  width:500px;
+  margin-left:auto;
+  margin-right:auto;
+  padding-left:20px;
+  padding-right:20px;
+  padding-top:10px;
+  padding-bottom:10px;
+
+
+}
+body{
+  background-image:url(https://th.bing.com/th/id/R.90f133ca0f462de82960200f8592673a?rik=UgW1yoRfIXXDuQ&riu=http%3a%2f%2fprod.static9.net.au%2f_%2fmedia%2fNetwork%2fImages%2f2017%2f06%2f21%2f14%2f09%2f170621coach_coffee_beans.jpg&ehk=6vG8k0FMNrXDcDpC1iMV3hXkKvguWqxDWxj7A9TFHug%3d&risl=&pid=ImgRaw&r=0)
+
+
+
+}
+.flavour,.type{
+  text-align:left;
+  width:49%;
+  font-family:sans-serif;
+}
+.price{
+  text-align:right;
+  width:49%;
+  font-family:sans-serif;
+}
+.item p{
+  display:inline-block;
+  margin-top:5px;
+  margin-bottom:5px;
+
+}
+.h2{
+  margin-left:auto;
+  margin-right:auto;
+}
+.prices{
+  text-align:right;
+  width:49%;
+  font-family:sans-serif;
+}
+.footer_{
+  text-align:center;
+
+}
+.free{
+  font-family:impact;
+  text-align:center;
+}
+
+.body{
+  padding:30px;
+
+}
+.footer_{
+  font-size:14px;
+}
+a{
+  color:black;
+}
+a:visited{
+  color:grey;
+}
+a:hover{
+  color:brown;
+}
+.free{
+  margin-bottom:5px;
+}
